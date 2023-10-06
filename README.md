@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! 👋
 [**My Website**](https://yungsamd17.github.io)
 
 <!--
