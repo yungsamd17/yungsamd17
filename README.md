@@ -6,4 +6,4 @@ Find out more about me on my website.
 
 📫 **yungsamd@proton.me**
 
-🗨️ [**Twitter @yungsamd17**](https://twitter.com/yungsamd17)
+💬 [**Twitter @yungsamd17**](https://twitter.com/yungsamd17)
